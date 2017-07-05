@@ -137,7 +137,7 @@
 # end
 
 Pod::Spec.new do |s|
-s.name         = 'KAKViewLine'
+s.name         = 'AKAViewLine'
 s.version      = '0.0.2'
 s.summary      = 'set view layer'
 s.homepage     = 'https://github.com/helinyu/AKAViewLine'
