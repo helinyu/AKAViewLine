@@ -145,6 +145,6 @@ s.license      = 'MIT'
 s.authors      = { "felix" => "2319979647@qq.com" }
 s.platform     = :ios, '7.0'
 s.source       = {:git => 'https://github.com/helinyu/AKAViewLine.git', :tag => s.version}
-s.source_files = 'KPLBlocks/**/*'
+s.source_files = 'AKAViewLine/**/*'
 s.requires_arc = true
 end
